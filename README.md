@@ -32,12 +32,12 @@ The dataset being used is loan.csv
 
 
 ## Technologies Used
-- python
+- python 3.11.4
 - jupyter notebook
-- pandas
-- numpy
-- matplotlib
-- seaborn
+- pandas 1.5.3
+- numpy 1.24.3
+- matplotlib 3.7.1
+- seaborn 0.12.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
